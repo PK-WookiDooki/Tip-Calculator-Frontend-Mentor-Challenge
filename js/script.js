@@ -109,6 +109,7 @@ window.onload = function(){
             }
             
             else{
+                // with Custom Button
                 // cBtn.classList.add('active');
                 // cBtn.onclick = function(){
                 //     if(people.value == 0 || people.value == ""){
